@@ -6,7 +6,7 @@
 # catalog-version 0.13c
 Name:		texlive-ppr-prv
 Version:	0.13c
-Release:	2
+Release:	3
 Summary:	Prosper preview
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ppr-prv
