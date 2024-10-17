@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Prosper preview
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ppr-prv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ppr-prv
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ppr-prv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ppr-prv.doc.r%{version}.tar.xz
